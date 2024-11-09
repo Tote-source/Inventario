@@ -1,0 +1,14 @@
+[
+    {
+        "nombre": "Manzana",
+        "categoria": "Fruta",
+        "precio": 0.6,
+        "cantidad": 120
+    },
+    {
+        "nombre": "cerezas",
+        "categoria": "fruta",
+        "precio": 44.0,
+        "cantidad": 50
+    }
+]
